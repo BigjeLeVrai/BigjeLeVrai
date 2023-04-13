@@ -1,3 +1,4 @@
-Hi my name is @Bigje
-💻Hi my name is Bigje. I am a French beginner coder
-My server it is <a href="https://discord.gg/naJTnTFSmC"></a>
+- 🔭 I’m currently working on <a href="https://discord.gg/naJTnTFSmC">Infernus</a>
+- 🌱 I’m currently learning Java
+- 📫 For reache me, send me message on discord : Cleboost#5372
+- 👯 My collaborater is Youritch, we team's name is <a href="https://discord.gg/243tk7k76v">Bot Encoders Studio</a>
