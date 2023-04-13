@@ -3,22 +3,14 @@
 
 
 
-### 
-- Very Fast Checking
-- Proxy support: http/s, socks4/5, Premium
-- Simple Usage
-- Custom Thread
-- Send hit to webhook
+### Discord Server
+- link: 
 
 ##   
 
 
 ### 📩 Support
 - Email: **...**
-- Proxy support: http/s, socks4/5, Premium
-- Simple Usage
-- Custom Thread
-- Send hit to webhook
 
 ##   
 
